@@ -1,0 +1,1 @@
+Mi nombre es Martin Barajas soy estudiante de la carrera ingenieria mecatronica estoy cursando el octavo cuatrimestre, con las materias dinamica de robots, ingenieria de control y programacion de sistemas embebidos.
